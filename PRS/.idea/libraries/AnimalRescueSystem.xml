@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnimalRescueSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AnimalRescueSystem/dist/AnimalRescueSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

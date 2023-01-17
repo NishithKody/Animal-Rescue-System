@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalRescueSystem/AnimalRescueSystem.iml" filepath="$PROJECT_DIR$/AnimalRescueSystem/AnimalRescueSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRS.iml" filepath="$PROJECT_DIR$/.idea/PRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleDB40/SampleDB40.iml" filepath="$PROJECT_DIR$/SampleDB40/SampleDB40.iml" />
+    </modules>
+  </component>
+</project>
